@@ -1,0 +1,17 @@
+form {
+  margin: 150px auto;
+  width: 250px;
+}
+
+form label {
+  margin-top: 2px;
+  margin-bottom: 5px;
+}
+
+form .button {
+  font-size: 8px;
+}
+
+.btn-primary {
+  margin-top: 9px;
+}
