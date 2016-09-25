@@ -1,11 +1,13 @@
+/* eslint react/prop-types: 0 */
 import React, {Component} from 'react';
 import {reduxForm} from 'redux-form'
 
 class Signin extends Component {
   handleFormSubmit({username, password}) {
     console.log(username, password);
+    //Need to do something to log user in
   }
-  //Need to do something to log user in
+
 
   render() {
 
@@ -23,7 +25,8 @@ class Signin extends Component {
         </fieldset>
         <button action="submit" className="btn btn-primary">Sign In</button>
     </form>
-    );
+
+  );
   }
 }
 
