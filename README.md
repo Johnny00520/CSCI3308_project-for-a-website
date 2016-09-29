@@ -18,7 +18,7 @@ Nate Phillips
 Pujan Tandukar
 ChenHao Cheng
 		
-**Description**: 
+**Description: 
 Short description (2-3 paragraphs) of the project. Provide enough information to explain what your project will accomplish.
 
 Our goal for this project is to simplify the process that the OIT department at CU uses in order to record information about hard drives. The website will take in a universal login provided by the CU OIT department to their employees. The login portal will proceed to take the employee to the page that will store all the information needed about the individual computer being worked on. 
@@ -29,13 +29,13 @@ Once a hard drive is completed, it will be archived and taken out of the list of
 
 
 
-'''Vision statement''': Provide a vision of your project for all potential customers.
+**Vision statement: Provide a vision of your project for all potential customers.
 
 To make it simpler to store and manage certain data that was previously stored by writing it down on paper. 
 
 
 
-'''Risks''': 
+**Risks: 
 What are the risks that would prevent you from completing this project? This could include: working environment, lack of experience in the field among the team, lack of access to a specific resource, etc.
 
 The majority of the members in the group are new to React, web development, and Bootstrap. Taking the time to learn and understand these new/hard concepts will be a challenge by itself because this will have to be done on their own time. 
@@ -46,13 +46,13 @@ If one of members is not cooperative or showing up in meetings, it hinders the a
 
 
 
-'''Motivation''':
+**Motivation:
 Provide the background and reasons for this particular project. Why should this  project be developed?
 
 Taking down information on paper tends to be more tedious and time consuming. By having all information flow through a website (a central server), information is more easily kept and stored without risk of losing it, and ease of access is increased.
 
 
-'''Version Control''':
+**Version Control:
 List the version control you will be using on the project (suggest that you use GITHUB). Create the repository and give access to your repository to the TAs and instructor, as well as all team members.
 
 We’ll use Github.
@@ -62,7 +62,7 @@ For the users to access the website: https://github.com/nateph/gds-hdd
 
 	
 
-'''Software Development Methodology''': 
+**Software Development Methodology: 
 Which methodology are you planning to follow? Your methodology may change during the project. Describe the methodology and the features/steps that you will follow. Common methodologies include Waterfall, Iterative, Spiral, ..., Agile, or could be a mash-up of different methods.
 
 Agile.
@@ -70,7 +70,7 @@ Agile.
 Pair-programming: separate the contents by part. Two people can focus on one part. One person typing the code and the other person plays as a guide role. Not one person always do the typing or guiding.
 
 
-'''Collaboration Tool''': 
+**Collaboration Tool: 
 Select a collaboration tool (commonly used tools: Slack and HipChat).
 
 Slack
