@@ -11,12 +11,7 @@ A tool for recording and storing customer hard drive information.
 
 ### Milestone 1
 					
-Members: 
-Zening Li
-Ryan Fasching
-Nate Phillips
-Pujan Tandukar
-ChenHao Cheng
+Members: Zening Li, Ryan Fasching, Nate Phillips ,Pujan Tandukar, ChenHao Cheng
 		
 **Description: 
 Short description (2-3 paragraphs) of the project. Provide enough information to explain what your project will accomplish.**
