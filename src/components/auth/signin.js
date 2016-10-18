@@ -1,11 +1,22 @@
 /* eslint react/prop-types: 0 */
 import React, {Component} from 'react';
-import {reduxForm} from 'redux-form'
+import {reduxForm} from 'redux-form';
+import * as actions from '../../actions';
 
 class Signin extends Component {
   handleFormSubmit({username, password}) {
-    console.log(username, password);
+    this.props.signinUser({username, password});
     //Need to do something to log user in
+  }
+
+  renderAlert() {
+    if(this.props.errorMessage) {
+      return (
+        <div className="alert alert-danger">
+          <strong>Oh no!</strong> {this.props.errorMessage}
+        </div>
+      );
+    }
   }
 
 
@@ -23,6 +34,7 @@ class Signin extends Component {
           <label><span><i className="fa fa-key" aria-hidden="true"></i></span> Password:</label>
           <input {...password} type="password" className="form-control"/>
         </fieldset>
+        {this.renderAlert()}
         <button action="submit" className="btn btn-primary">Sign In</button>
     </form>
 
@@ -30,7 +42,13 @@ class Signin extends Component {
   }
 }
 
+function mapStateToProps(state){
+  return {
+    errorMessage: state.auth.error
+  };
+}
+
 export default reduxForm({
   form: 'signin',
   fields: ['username', 'password']
-})(Signin);
+}, mapStateToProps, actions)(Signin);
