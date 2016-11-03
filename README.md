@@ -79,7 +79,7 @@ Target market:
 We are planning on donating this product to the OIT department at CU Boulder. This program is primarily made for CU Boulder OIT department but this project can be put into a larger scale and can be sold to other Universities or Colleges depending on their needs. We can incorporate different logins and different databases for other Universities and Colleges if they decide to buy our product meaning we can create different databases but all incorporated in the same website. So everyone will be accessing the same website but depending on the login, they will be directed to different databases that will store their information.
 
 
-Profile of Competitors: 
+Profile of Competitors: 	
 Dropbox offers 2GB of space to store information, 30 days of recovery, and the third party unlimited integrations for individual user. The advantage of the competitor offering is the third party can integrate with other users. The disadvantages are they only offer 2GB of space and recover the files or information. Other than that, you have to upgrade your account, which is $8.25 per person per month.
 
 
@@ -97,11 +97,15 @@ Plan Cycle within the Methodology :
 The Waterfall model is going to be implemented as follows:
 
 
-- > Requirements (building the trello site and making concrete features)
-	- > Design (this will use React and Redux to create a single-page  application that is designed to be fast and reliable).
-		- >Implementation (create each component one by one and make sure they work together as we are creating them, so that we know the final product will work as supposed to). We will be hosting the site on GitHub pages (for the front end), and then a backend of Heroku, Digitalocean, or AWS (for the server). Note: the trello has the detailed steps of implementation.
-			->Verification (test out on local servers (development servers) before pushing to production). Many users will test the site to find any bugs.
-		->Maintenance (If any bugs are found, they will be taken care of to ensure the site is working as supposed to. Maintenance will also include making sure servers, ,etc are up and working. 
+-> Requirements (building the trello site and making concrete features)
+    
+-> Design (this will use React and Redux to create a single-page  application that is designed to be fast and reliable).
+	
+->Implementation (create each component one by one and make sure they work together as we are creating them, so that we know the final product will work as supposed to). We will be hosting the site on GitHub pages (for the front end), and then a backend of Heroku, Digitalocean, or AWS (for the server). Note: the trello has the detailed steps of implementation.
+	
+->Verification (test out on local servers (development servers) before pushing to production). Many users will test the site to find any bugs.
+	    
+->Maintenance (If any bugs are found, they will be taken care of to ensure the site is working as supposed to. Maintenance will also include making sure servers, ,etc are up and working. 
 
 
 
