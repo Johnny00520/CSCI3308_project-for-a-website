@@ -73,6 +73,7 @@ iMessage
 Google Docs
 Skype
 
+###Milestone 4
 Market Analysis : 
 Target market: 
 We are planning on donating this product to the OIT department at CU Boulder. This program is primarily made for CU Boulder OIT department but this project can be put into a larger scale and can be sold to other Universities or Colleges depending on their needs. We can incorporate different logins and different databases for other Universities and Colleges if they decide to buy our product meaning we can create different databases but all incorporated in the same website. So everyone will be accessing the same website but depending on the login, they will be directed to different databases that will store their information.
@@ -98,8 +99,8 @@ The Waterfall model is going to be implemented as follows:
 
 - > Requirements (building the trello site and making concrete features)
 	- > Design (this will use React and Redux to create a single-page  application that is designed to be fast and reliable).
-- >Implementation (create each component one by one and make sure they work together as we are creating them, so that we know the final product will work as supposed to). We will be hosting the site on GitHub pages (for the front end), and then a backend of Heroku, Digitalocean, or AWS (for the server). Note: the trello has the detailed steps of implementation. 
-	->Verification (test out on local servers (development servers) before pushing to production). Many users will test the site to find any bugs.
+		- >Implementation (create each component one by one and make sure they work together as we are creating them, so that we know the final product will work as supposed to). We will be hosting the site on GitHub pages (for the front end), and then a backend of Heroku, Digitalocean, or AWS (for the server). Note: the trello has the detailed steps of implementation.
+			->Verification (test out on local servers (development servers) before pushing to production). Many users will test the site to find any bugs.
 		->Maintenance (If any bugs are found, they will be taken care of to ensure the site is working as supposed to. Maintenance will also include making sure servers, ,etc are up and working. 
 
 
