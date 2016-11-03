@@ -79,7 +79,7 @@ Target market:
 We are planning on donating this product to the OIT department at CU Boulder. This program is primarily made for CU Boulder OIT department but this project can be put into a larger scale and can be sold to other Universities or Colleges depending on their needs. We can incorporate different logins and different databases for other Universities and Colleges if they decide to buy our product meaning we can create different databases but all incorporated in the same website. So everyone will be accessing the same website but depending on the login, they will be directed to different databases that will store their information.
 
 
-Profile of Competitors: 	
+Profile of Competitors: 
 Dropbox offers 2GB of space to store information, 30 days of recovery, and the third party unlimited integrations for individual user. The advantage of the competitor offering is the third party can integrate with other users. The disadvantages are they only offer 2GB of space and recover the files or information. Other than that, you have to upgrade your account, which is $8.25 per person per month.
 
 
