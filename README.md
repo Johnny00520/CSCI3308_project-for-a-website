@@ -73,3 +73,34 @@ iMessage
 Google Docs
 Skype
 
+Market Analysis : 
+Target market: 
+We are planning on donating this product to the OIT department at CU Boulder. This program is primarily made for CU Boulder OIT department but this project can be put into a larger scale and can be sold to other Universities or Colleges depending on their needs. We can incorporate different logins and different databases for other Universities and Colleges if they decide to buy our product meaning we can create different databases but all incorporated in the same website. So everyone will be accessing the same website but depending on the login, they will be directed to different databases that will store their information.
+
+
+Profile of Competitors: 	
+Dropbox offers 2GB of space to store information, 30 days of recovery, and the third party unlimited integrations for individual user. The advantage of the competitor offering is the third party can integrate with other users. The disadvantages are they only offer 2GB of space and recover the files or information. Other than that, you have to upgrade your account, which is $8.25 per person per month.
+
+
+Competitive Advantage: 
+The unique feature is that we are storing student’s computer profiles rather than multiple files. For OIT department, they only need profile of each student’s computer in order to find the student’s computer easily. The price of Dropbox is too expensive for large storage. Our products is free for CU, but we are going to charge money (not as much as dropbox) from other universities. Our products is for free so it has greater compatibility with other companies who don’t want to spend that much for dropbox.  It is also easy to use because it has only one universal login for a certain university or a company. 
+		
+
+Results of the retrospective on First iteration : 					
+The first time we tested our project through the localhost on chrome, the login page was all set up at the first sight. But upon further inspection, the encryption for the password and username had not been set up, so no one was able to login since we had not built the back end of the site yet. We also had not set up our tables, and at the moment we are using standard SQL for the tables, but might have to switch to noSQL due to our server needs. So the first iteration we only had the visuals of the login page set up but not anything else. 
+			
+Additional Requirements : 		 	 	 			
+The only new requirement we have found so far is in the functional requirements, in that it has to iterate through the array of given hard drives to find the specific one. 
+										
+Plan Cycle within the Methodology : 				
+The Waterfall model is going to be implemented as follows:
+
+
+- > Requirements (building the trello site and making concrete features)
+	- > Design (this will use React and Redux to create a single-page  application that is designed to be fast and reliable).
+- >Implementation (create each component one by one and make sure they work together as we are creating them, so that we know the final product will work as supposed to). We will be hosting the site on GitHub pages (for the front end), and then a backend of Heroku, Digitalocean, or AWS (for the server). Note: the trello has the detailed steps of implementation. 
+	->Verification (test out on local servers (development servers) before pushing to production). Many users will test the site to find any bugs.
+		->Maintenance (If any bugs are found, they will be taken care of to ensure the site is working as supposed to. Maintenance will also include making sure servers, ,etc are up and working. 
+
+
+
